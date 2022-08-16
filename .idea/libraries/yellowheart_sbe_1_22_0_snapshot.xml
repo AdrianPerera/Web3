@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yellowheart-sbe-1.22.0-snapshot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../yellowheart-sbe/target/yellowheart-sbe-1.22.0-snapshot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
